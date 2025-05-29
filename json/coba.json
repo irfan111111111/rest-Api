@@ -1,0 +1,47 @@
+[
+    {
+        "nama" : "Rahmad Irfan",
+        "umur" : 23,
+        "nim" : "2217020176",
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "gaming",
+            "music"
+        ],
+        "pembimbing" : {
+            "pembimbing 1" : "Ozzy Secio Riza",
+            "pembimbing 2" : "Hadtiya Prasetyo"
+        }
+    },
+    {
+        "nama" : "Syahfar",
+        "umur" : 22,
+        "nim" : "2217020125",
+        "lulus" : false,
+        "hobby" : [
+            "reading",
+            "watching",
+            "dance"
+        ],
+        "pembimbing" : {
+            "pembimbing 1" : "M.Yusuf",
+            "pembimbing 2" : "Raju Wandira"
+        }
+    },
+    {
+        "nama" : "M.Irfandi Atarza",
+        "umur" : 21,
+        "nim" : "2217020050",
+        "lulus" : false,
+        "hobby" : [
+            "learning",
+            "watching",
+            "singing"
+        ],
+        "pembimbing" : {
+            "pembimbing 1" : "Yaslinda Lizard",
+            "pembimbing 2" : "Ozi Secio riza"
+        }
+    }
+]
