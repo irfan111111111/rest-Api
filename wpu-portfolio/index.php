@@ -95,7 +95,7 @@ $gambar5 = $resultGambar5['media_url'];
         <div class="text-center">
           <img src="img/profile1.jpg" class="rounded-circle img-thumbnail">
           <h1 class="display-4">Rahmad Irfan</h1>
-          <h3 class="lead">Lecturer | Mahasiwa | Pengusaha Sukses</h3>
+          <h3 class="lead">Mahasiswa |  Olahraga wan | Pengusaha Sukses</h3>
         </div>
       </div>
     </div>
